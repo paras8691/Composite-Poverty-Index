@@ -99,6 +99,6 @@ Real-time government dataset integration
 Causal policy impact analysis
 Advanced explainable AI techniques
 # Author
-Paras Jain
-B.Tech Information Technology Student
+Paras Jain<br>
+B.Tech Information Technology Student<br>
 KIET Group of Institutions
